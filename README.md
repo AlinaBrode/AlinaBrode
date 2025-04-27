@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - [маленькие этюды](https://alinabrode.github.io/small_etudes/) - головоломки на React
   - Поупражняться в сортировке массива
   - Перекрасить квадрат
+- [интернет-магазин fast food](https://alinabrode.github.io/stellar-burgers/) - Typescript, JS, React, Redux, системы юнит и интеграционного тестирования
+- [простая галерея картинок](https://alinabrode.github.io/mesto-project-ff)-HTML,CSS
 
