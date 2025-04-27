@@ -16,5 +16,5 @@ Here are some ideas to get you started:
   - Поупражняться в сортировке массива
   - Перекрасить квадрат
 - [интернет-магазин fast food](https://alinabrode.github.io/stellar-burgers/) - Typescript, JS, React, Redux, системы юнит и интеграционного тестирования
-- [простая галерея картинок](https://alinabrode.github.io/mesto-project-ff)-HTML,CSS
-
+- [простая галерея картинок с лайками](https://alinabrode.github.io/mesto-project-ff)-HTML,CSS
+- [галерея енотиков](https://alinabrode.github.io/zakrivayuschiy-teg-f/)-HTML,CSS,анимация
