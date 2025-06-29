@@ -8,6 +8,7 @@
 - 💬 Ищу работу
   
 ## Мои проекты:
+- [облако точек](https://alinabrode.github.io/points_clouds/). Исходники: [src](https://github.com/AlinaBrode/points_clouds)
 - [маленькие этюды](https://alinabrode.github.io/small_etudes/) - головоломки на React [src](https://github.com/AlinaBrode/small_etudes)
   - [поупражняться в сортировке массива](https://alinabrode.github.io/small_etudes/sort_brainteaser/)
   - [решить головоломку](https://alinabrode.github.io/small_etudes/toggle_color_brainteaser/)
